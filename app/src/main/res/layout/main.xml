@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	android:gravity="top|center"
+	android:keepScreenOn="true"
+	android:layout_gravity="center|fill_vertical|fill_horizontal"
+	android:background="#2F2F2F"
+	android:padding="8dp">
+
+	<EditText
+		android:layout_width="match_parent"
+		android:ems="10"
+		android:layout_height="wrap_content"
+		android:gravity="bottom|center"
+		android:backgroundTint="#FFFFFF"
+		android:singleLine="true"
+		android:textColor="#FFFFFF"
+		android:id="@+id/file1"
+		android:maxLines="5"/>
+
+	<EditText
+		android:layout_width="match_parent"
+		android:ems="10"
+		android:layout_height="wrap_content"
+		android:gravity="bottom|center"
+		android:backgroundTint="#FFFFFF"
+		android:singleLine="true"
+		android:textColor="#FFFFFF"
+		android:id="@+id/file2"
+		android:maxLines="5"/>
+
+	<Button
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:text="Compare APK"
+		android:id="@+id/compare"/>
+
+	<ScrollView
+		android:id="@+id/tscroll"
+		android:layout_width="fill_parent"
+		android:layout_height="0dip"
+		android:layout_weight="12">
+
+		<TextView
+			android:id="@+id/xterm"
+			android:layout_width="match_parent"
+			android:layout_height="match_parent"
+			android:typeface="monospace"
+			android:textColor="#FFFFFF"
+			android:textSize="11sp"/>
+
+	</ScrollView>
+
+</LinearLayout>
+

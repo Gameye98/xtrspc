@@ -1,4 +1,18 @@
-# xtrspc: Android APK Comparison Tool**
+[![GitHub stars](https://img.shields.io/github/stars/Gameye98/Lazymux.svg)](https://github.com/Gameye98/Lazymux/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/Gameye98/Lazymux.svg)](https://github.com/Gameye98/Lazymux/network/members)
+[![GitHub issues](https://img.shields.io/github/issues/Gameye98/Lazymux.svg)](https://github.com/Gameye98/Lazymux/issues)
+[![GitHub watchers](https://img.shields.io/github/watchers/Gameye98/Lazymux.svg)](https://github.com/Gameye98/Lazymux/watchers)
+[![Python](https://img.shields.io/badge/language-Python%203-blue.svg)](https://www.python.org)
+[![Bash](https://img.shields.io/badge/language-Bash-blue.svg)](https://www.gnu.org/software/bash/)
+[![WTFPL](https://img.shields.io/badge/license-WTFPL-red.svg)](http://www.wtfpl.net/)
+[![BlackHole Security](https://img.shields.io/badge/team-BlackHole%20Security-ocean.svg)](https://github.com/BlackHoleSecurity)
+[![Gameye98/DedSecTL](https://img.shields.io/badge/author-Gameye98/DedSecTL-red.svg)](https://github.com/Gameye98)
+
+[![ForTheBadge built-by-developers](http://ForTheBadge.com/images/badges/built-by-developers.svg)](https://github.com/Gameye98)  
+
+[![BlackHole Security](core/gitbhs.svg)](https://github.com/BlackHoleSecurity)
+
+# xtrspc: Android APK Comparison Tool
 
 xtrspc is an APK designed for comparing two Android APK files. It decomposes the APKs, identifies added, removed, modified, and unchanged files, generates a detailed comparison result, and extracts relevant data into separate ZIP files. This tool aids in understanding the differences between two APKs and can be useful for version control or security analysis.
 

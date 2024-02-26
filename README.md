@@ -19,7 +19,7 @@ xtrspc is an APK designed for comparing two Android APK files. It decomposes the
 Fill the first EditText with Original APK path  
 Fill the second EditText with Modified APK path  
 
-Output the comparation result:  
+Output the comparison result:  
 /sdcard/data/xtrspc  
 
 **Features:**

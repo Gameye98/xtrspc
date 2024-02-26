@@ -2,15 +2,14 @@
 [![GitHub forks](https://img.shields.io/github/forks/Gameye98/xtrspc.svg)](https://github.com/Gameye98/xtrspc/network/members)
 [![GitHub issues](https://img.shields.io/github/issues/Gameye98/xtrspc.svg)](https://github.com/Gameye98/xtrspc/issues)
 [![GitHub watchers](https://img.shields.io/github/watchers/Gameye98/xtrspc.svg)](https://github.com/Gameye98/xtrspc/watchers)
-[![Python](https://img.shields.io/badge/language-Python%203-blue.svg)](https://www.python.org)
-[![Bash](https://img.shields.io/badge/language-Bash-blue.svg)](https://www.gnu.org/software/bash/)
-[![WTFPL](https://img.shields.io/badge/license-WTFPL-red.svg)](http://www.wtfpl.net/)
+[![Python](https://img.shields.io/badge/language-Java%203-blue.svg)](https://www.java.com/en/)
+[![MIT](https://img.shields.io/badge/license-MIT-red.svg)](https://opensource.org/license/mit)
 [![BlackHole Security](https://img.shields.io/badge/team-BlackHole%20Security-ocean.svg)](https://github.com/BlackHoleSecurity)
 [![Gameye98/DedSecTL](https://img.shields.io/badge/author-Gameye98/DedSecTL-red.svg)](https://github.com/Gameye98)
 
 [![ForTheBadge built-by-developers](http://ForTheBadge.com/images/badges/built-by-developers.svg)](https://github.com/Gameye98)  
 
-[![BlackHole Security](core/gitbhs.svg)](https://github.com/BlackHoleSecurity)
+[![BlackHole Security](.gitbhs.svg)](https://github.com/BlackHoleSecurity)
 
 # xtrspc: Android APK Comparison Tool
 

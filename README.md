@@ -36,4 +36,4 @@ If somehow it keeps resulting an error saying some command (example: apktool) is
 [Gameye98](https://github.com/Gameye98)
 
 **License:**
-[MIT](https://github.com/Gameye98/xtrspc/blob/main/README.md)
+[MIT](https://github.com/Gameye98/xtrspc/blob/master/README.md)
